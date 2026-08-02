@@ -45,3 +45,4 @@ mock_nvml_expected_name() {
     *)     echo "UNKNOWN" ;;
   esac
 }
+# Baseline run: no behaviour change. See chore/mock-nvml-control-baseline.
